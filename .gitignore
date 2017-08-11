@@ -1,0 +1,14 @@
+node_modules/
+RELEASES/
+legacy
+build
+test/bundle.js
+test/bundle.js.map
+test/ad-vantage-bundle.js
+test/ad-vantage-bundle.js.map
+test/ad-vantage-test-bundle.js
+test/ad-vantage-test-bundle.js.map
+.DS_Store
+.env
+.idea/
+coverage/
